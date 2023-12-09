@@ -8,10 +8,8 @@ This tool may help you.
 
 ## How to run
 ### Option A: Run Python source code
-Just run
-```
-python3 app.py
-```
+1. Clone this repo and just run `python3 app.py`
+
 
 ### Option B: Run Pyinstalled compiled .exe application
 1. Download the .zip file from the Release section
