@@ -8,7 +8,7 @@ QSS style sheet from :
   author = {Jaime Quiroga},
   month = {5},
   title = {{QT Style Sheets templates}},
-  url = {[https://github.com/github-linguist/linguist](https://github.com/GTRONICK/QSS/tree/master)https://github.com/GTRONICK/QSS/tree/master},
+  url = {https://github.com/GTRONICK/QSS},
   version = {v1.1.0},
   year = {2021}
 }
