@@ -12,7 +12,7 @@ This tool may help you.
 
 
 ### Option B: Run Pyinstalled compiled .exe application
-1. Download the .zip file from the Release section
+1. Download the .zip file from the Release section and unzip it
 2. Double click `Jellyfin Movie Renamer.exe` and run
 
 ## How to use
