@@ -1,5 +1,6 @@
 # jellyfin_renamer
-Rename your anime series to the Jellyfin format
+Rename your anime/movie series to the Jellyfin format naming scheme
+[Jellyfin Naming Scheme](https://jellyfin.org/docs/general/server/media/shows/)
 
 ## What is it for?
 Are you tired of manually renaming hundreds of your series files to the Jellyfin naming scheme? 
