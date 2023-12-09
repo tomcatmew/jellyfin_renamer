@@ -6,8 +6,20 @@ Are you tired of manually renaming hundreds of your series files to the Jellyfin
 This tool may help you.
 ![alt text](thumbnail.png)
 
+## How to run
+### Run Python source code
+Just run
+```
+python3 app.py
+```
+
+### Run Pyinstalled compiled .exe application
+1. Download the .zip file from the Release section
+2. Double click `Jellyfin Movie Renamer.exe` and run
+
 ## How to use
 ![alt text](guide.png)
+
 
 QSS style sheet from :
 ```
