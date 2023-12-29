@@ -21,7 +21,7 @@ This tool may help you.
 
 ## (Extra) Pyinstaller build command
 ```
-pyinstaller --noconfirm --onedir --windowed --icon "J:/git_projects_personal/test/cat.ico"  "J:/git_projects_personal/test/app.py"
+pyinstaller --windowed --name jellyfin_renamer --icon=cat.ico app.py
 ```
 
 QSS style sheet from :
