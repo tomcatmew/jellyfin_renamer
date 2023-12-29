@@ -19,6 +19,10 @@ This tool may help you.
 ## How to use
 ![alt text](guide.png)
 
+## (Extra) Pyinstaller build command
+```
+pyinstaller --noconfirm --onedir --windowed --icon "J:/git_projects_personal/test/cat.ico"  "J:/git_projects_personal/test/app.py"
+```
 
 QSS style sheet from :
 ```
