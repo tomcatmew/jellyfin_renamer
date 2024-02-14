@@ -12,7 +12,7 @@ This tool may help you.
 1. Clone this repo and just run `python3 app.py`
 
 
-### Option B: Run Pyinstalled compiled .exe application
+### Option B: Run Pyinstaller compiled .exe application
 1. Download the .zip file from the Release section and unzip it
 2. Double click `Jellyfin Movie Renamer.exe` and run
 
